@@ -218,3 +218,10 @@ Checked 71 published release files/compatibility pages over HTTPS: every respons
 Nine source suites passed; existing interaction adapters passed 287/305/338/386/142 assertions (1,458 total). Release path audit covered 16 current/compatibility HTML documents and 614 internal assets/fragments; no secret pattern found in active HTML/JS/CSS. Pre-commit whitespace check noted source-carried extra blank EOF lines; these do not affect delivery. No browser-native rendering, screen reader, console, WebGL/GPU, print or Lighthouse acceptance is claimed.
 
 No backend, database, package/build workflow, tracking or contact form. Pages settings unchanged: main/root, no custom domain. Original vendor pins retained. Official upstream advisory listing showed no published advisories; this is not a comprehensive security audit. Future update instructions are in README.
+
+
+## SEO update — 1 November 2026
+
+Updated eleven indexable pages with canonical and social metadata, accurate project titles/descriptions, crawlable biography and consistent Person/WebSite JSON-LD. Homepage canonical is the directory URL; sitemap contains eleven canonical URLs without invented modification dates. No CSS, JavaScript, Three.js or asset changes. Existing compatibility aliases and historical files are preserved. The retained project-path robots.txt is not a hostname-root crawler policy; hostname-root rules require the separate dodogeuser.github.io repository.
+
+Validation: nine source/content/export suites, five JavaScript adapter suites (1,458 assertions), dedicated source/export SEO checks, and local HTTP checks passed. Sitemap returns local HTTP 200 at both preview prefixes. Browser/AT/Lighthouse/Core Web Vitals and interactive external structured-data validators remain unmeasured. Google Search Console still requires the actual account verification token and sitemap submission. Deployment/live checks will be recorded after publishing.
