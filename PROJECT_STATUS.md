@@ -232,3 +232,8 @@ Validation: nine source/content/export suites, five JavaScript adapter suites (1
 Owner confirmed https://dodogeuser.github.io/George-Youkhanna-Portfolio/ as the new primary URL. Updated canonical/social/image metadata, Person/WebSite IDs, sitemap entries, custom-404 assets/navigation, repository maintenance references and retained project-path robots sitemap declaration. That robots file is informational only; hostname-root crawl policy still belongs to the separate user site. Updated private preview/export/test and Search Console instructions to use the new base. No CSS, application JavaScript, artwork or layouts changed.
 
 Source/export SEO, nine source suites and five JavaScript adapter suites pass. Live checks follow the Pages build; Search Console requires a URL-prefix property for the new URL and real account verification.
+
+
+## Google Search Console verification file — 1 November 2026
+
+Published the owner-supplied google441d21a1f5c9b57f.html at the project root for the new URL-prefix property. The private source exporter now retains the exact supplied file in future releases. Homepage/SEO checks and exact verification-file export preservation passed. Keep this file after verification. Google account verification and sitemap submission still require the user to finish in Search Console.
