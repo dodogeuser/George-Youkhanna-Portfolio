@@ -2,7 +2,7 @@
 
 Security-Focused Software Engineer and Co-Founder of NexusQart. Carbon & Violet static portfolio using semantic HTML, ordinary CSS, vanilla JavaScript and local pinned Three.js 0.180.0.
 
-Live site: https://dodogeuser.github.io/portfolio/
+Live site: https://dodogeuser.github.io/George-Youkhanna-Portfolio/
 
 ## Hosting
 
@@ -16,7 +16,7 @@ Shared CSS and JavaScript live under assets; keep duplicated navigation synchron
 
 ## Updates
 
-Edit the private source workspace first, run its regression checks, then export public files with tools/prepare_release.py using https://dodogeuser.github.io/portfolio/. Copy the reviewed export into a clean checkout and push a normal commit; no force push. A fresh directory is required for export. Preserve compatibility redirects and repository history. Keep canonical/social/sitemap URLs aligned with the production base.
+Edit the private source workspace first, run its regression checks, then export public files with tools/prepare_release.py using https://dodogeuser.github.io/George-Youkhanna-Portfolio/. Copy the reviewed export into a clean checkout and push a normal commit; no force push. A fresh directory is required for export. Preserve compatibility redirects and repository history. Keep canonical/social/sitemap URLs aligned with the production base.
 
 To update the CV, supply an owner-approved current PDF and update the existing asset. Add certifications only from confirmed facts/links. Add real project logos only. Keep conceptual/planned components explicitly scoped. Do not invent achievements, features, metrics or notes. Future project links require owner-approved exact URLs, metadata validation and intentional rendering; never substitute the profile URL.
 

@@ -2,7 +2,7 @@
 
 ## Current architecture
 
-The owner's approved Carbon & Violet implementation supersedes the former CDN/Tailwind design. This is static HTML, CSS and vanilla JavaScript with locally pinned Three.js 0.180.0. Do not introduce frameworks, npm/build requirements, backend/database, forms, tracking or remote runtime dependencies. Publish main / root on GitHub Pages; preserve .nojekyll and the /portfolio/ base.
+The owner's approved Carbon & Violet implementation supersedes the former CDN/Tailwind design. This is static HTML, CSS and vanilla JavaScript with locally pinned Three.js 0.180.0. Do not introduce frameworks, npm/build requirements, backend/database, forms, tracking or remote runtime dependencies. Publish main / root on GitHub Pages; preserve .nojekyll and the /George-Youkhanna-Portfolio/ base.
 
 ## Preservation and content
 
